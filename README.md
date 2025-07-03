@@ -77,7 +77,7 @@ I'm a passionate full-stack engineer and AI tinkerer exploring the intersection 
 
 | Project | Description | Stack | Links |
 |--------|-------------|-------|-------|
-| **AI Resume Ranker** | NLP model that ranks and improves resumes using Transformers. | Python, Hugging Face, Streamlit | [View](https://huggingface.co/sellestas) |
+| **AI Resume Ranker** | NLP model that ranks and improves resumes using Transformers. | Python, Hugging Face, Streamlit | [View](https://github.com/Sellesta/Resume-Ranker) |
 | **Smart Portfolio Generator** | Dynamic resume + blog portfolio platform. | Next.js, Tailwind, Notion API | [View](https://datascienceportfol.io/brilliantpenman) |
 | **Language Tutor Bot** *(Hackathon finalist)* | Teaches African languages via chatbot. | GPT-Neo, Twilio, FastAPI | [Devpost](https://devpost.com/Sellesta) |
 
