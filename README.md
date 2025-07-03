@@ -60,8 +60,14 @@ I'm a passionate full-stack engineer and AI tinkerer exploring the intersection 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moses-wanjema&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moses-wanjema&theme=tokyonight" height="150" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Sellesta&show_icons=true&theme=tokyonight" height="150" />
+
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sellesta&theme=tokyonight" height="150" />
+
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sellesta&layout=compact&theme=tokyonight" height="150" />
 </div>
 
 ---
