@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <h1 align="center">👋 Hi, I'm Moses Wanjema</h1>
-<h3 align="center">Engineer • AI Tinkerer • Full-Stack Explorer</h3>
+<h3 align="center">Data Engineer • Data Analyst • Full-Stack Explorer</h3>
 
 <p align="center">
   🚀 I build modern apps & intelligent systems with <strong>TypeScript</strong>, <strong>Rust</strong>, <strong>Next.js</strong>, and <strong>Hugging Face</strong> <br/>
