@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">👋 Hi, I'm Moses Wanjema</h1>
+<h1 align="center">👋 Hi, I'm Moses</h1>
 <h3 align="center">Data Engineer • Data Analyst • Full-Stack Explorer</h3>
 
 <p align="center">
