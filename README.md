@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-I'm a passionate full-stack engineer and AI tinkerer exploring the intersection of web technologies and intelligent systems.
+I'm a passionate Data Engineer and AI tinkerer exploring the intersection of web technologies and intelligent systems.
 
 - 🔭 I love building developer tools, AI prototypes, and scalable apps
 - 💬 I speak TypeScript, Python, Go, Rust, and GraphQL
