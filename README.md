@@ -85,7 +85,7 @@ I'm a passionate Data Engineer and AI tinkerer exploring the intersection of web
 
 ## ✉️ Get In Touch
 
-If you're hiring or collaborating on something exciting in AI, devtools, or clean frontend systems — let's chat!
+If you're hiring or collaborating on something exciting in AI, Data Engineering and Analysis, devtools, or clean frontend systems — let's chat!
 
 📬 [Send me a message on LinkedIn](https://www.linkedin.com/in/moses-wanjema-a43253133/)
 
