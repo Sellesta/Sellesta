@@ -4,7 +4,7 @@
 <h3 align="center">Data Engineer • Data Analyst • Full-Stack Explorer</h3>
 
 <p align="center">
-  🚀 I build modern apps & intelligent systems with  <strong>Python</strong>, <strong>TypeScript</strong>, <strong>Rust</strong>, <strong>Next.js</strong>, and <strong>Hugging Face</strong><br/>
+  🚀 I build modern apps & intelligent systems with  <strong>Python</strong>, <strong>TypeScript</strong>, <strong>Rust</strong>, <strong>Next.js</strong>, and <strong>Hug the Face</strong><br/>
       Here's a bit about me and what I've accomplished so far! <br/>
   📍 Based in Kenya • Open to remote opportunities globally
 </p>
