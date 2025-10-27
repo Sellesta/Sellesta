@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <h1 align="center">👋 Hi, I'm Moses</h1>
-<h3 align="center">Data Engineer • Data Analyst • Full-Stack Explorer</h3>
+<h3 align="center">Data Engineer • Machine learning Engineer</h3>
 
 <p align="center">
   🚀 I build modern apps & intelligent systems with  <strong>Python</strong>, <strong>TypeScript</strong>, <strong>Rust</strong>, <strong>Next.js</strong>, and <strong>Hug the Face</strong><br/>
