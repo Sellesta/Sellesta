@@ -1,60 +1,11 @@
-<!-- Commit header.svg to this repo, then the image below will render -->
-<img src="https://raw.githubusercontent.com/Sellesta/Sellesta/main/header.svg" alt="Moses Wanjema — ML Engineer · Data Engineer · AI Builder" width="100%"/>
+<!-- Commit header.svg to this repo to keep the banner -->
+<img src="https://raw.githubusercontent.com/Sellesta/Sellesta/main/header.svg" alt="Moses Wanjema — ML & Data Engineer" width="100%"/>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sellesta&color=1f6feb&style=flat-square&label=)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moses-wanjema-a43253133/)
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-fcc72b?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/sellestas)
-[![Portfolio](https://img.shields.io/badge/Portfolio-22c55e?style=flat-square&logo=notion&logoColor=white)](https://datascienceportfol.io/brilliantpenman)
-[![Devpost](https://img.shields.io/badge/Devpost-003e54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/Sellesta)
+### I build ML pipelines and data infrastructure that ship to production — not notebooks that stay on a laptop.
 
-</div>
-
-<br/>
-
-I build at the intersection of data, ML, and clean software — from ETL pipelines and LLM fine-tuning to production APIs. Currently experimenting with Rust microservices and working with [@macroai](https://github.com/macroai). Open to remote opportunities.
-
-**🏆 Hackathon winner** — Vet2TechChatbox · AI Chatbot Hackathon
-
-<br/>
-
----
-
-### Stack
-
-[![Python](https://skillicons.dev/icons?i=py,ts,rust,go,nextjs,nestjs,tailwind,graphql,aws,postgres,docker&theme=dark)](https://skillicons.dev)
-
-<br/>
-
----
-
-### Projects
-
-| | Project | Stack |
-|---|---|---|
-| 🏆 | **[Vet2TechChatbox](https://github.com/Sellesta/Vet2TechChatbox-)** — Hackathon-winning AI chatbot bridging veterans into tech | Python · GPT · FastAPI |
-| 🤖 | **[AI Resume Ranker](https://github.com/Sellesta/Resume-Ranker)** — NLP screener that scores resumes with Transformers | Python · Hugging Face · Streamlit |
-| 🔄 | **[Reddit Data Pipeline](https://github.com/Sellesta/Reddit-Data-Pipeline-with-Airflow-Celery-PostgreSQL-S3-AWS-Glue-Athena-and-Redshift)** — ETL from Reddit → Redshift via Airflow + AWS | Python · Airflow · S3 · Redshift |
-| 🌍 | **[Language Tutor Bot](https://devpost.com/Sellesta)** — African language learning chatbot *(hackathon finalist)* | GPT-Neo · Twilio · FastAPI |
-| 📊 | **[Canada Crime Dashboard](https://github.com/Sellesta/Visualizing-Canada-s-Crime-Stats-in-PowerBI)** — National crime data in PowerBI | Python · Jupyter · PowerBI |
-| 🔌 | **[Softheon Integration](https://github.com/Sellesta/Softheon-Integration-Sandbox)** — Python + SQL pipeline → Softheon API | Python · SQL |
-
-<br/>
-
----
-
-### Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sellesta&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=1f6feb&title_color=58a6ff&hide_rank=true" height="140"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sellesta&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="140"/>
-
-<img src="https://streak-stats.demolab.com?user=Sellesta&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=388bfd&currStreakLabel=58a6ff" width="48%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sellesta&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=388bfd&hide_border=true&area=true" width="100%"/>
+**🟢 Open to full-time roles & contract work** — [LinkedIn](https://www.linkedin.com/in/moses-wanjema-a43253133/) · [Portfolio](https://datascienceportfol.io/brilliantpenman) · [hello@yourdomain.com](mailto:hello@yourdomain.com)
 
 </div>
 
@@ -62,44 +13,46 @@ I build at the intersection of data, ML, and clean software — from ETL pipelin
 
 ---
 
-### Contribution Snake
+### What I do
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sellesta/Sellesta/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sellesta/Sellesta/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake" src="https://raw.githubusercontent.com/Sellesta/Sellesta/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
+I help teams take ML and data work from "it works on my machine" to "it runs unattended in production." Recent focus: **[REPLACE — e.g. "LLM fine-tuning pipelines for support automation"]** and **[REPLACE — e.g. "ETL infrastructure that survives a 10x traffic spike"]**.
+
+🏆 Hackathon winner — Vet2TechChatbox (AI Chatbot Hackathon)
+🌍 Contributor to a Guinness World Records™ title — Largest Online AI Hackathon, Kanz AI Hackathon (July 2026) · [certificate](https://try.ka.nz/certificate/KANZ-GWR-B972C33B59?certificate_type=gwr2&recipient_name=Moses+Wanjema&issue_date=July+15%2C+2026&certificate_id=KANZ-GWR-B972C33B59)
+
+<br/>
+
+---
+
+### Selected work
+
+Each project below is framed as: **problem → what I built → outcome**. Replace the bracketed metrics with your real numbers — a specific number is what makes a client trust the rest of the page.
+
+**[Vet2TechChatbox](https://github.com/Sellesta/Vet2TechChatbox-)** — AI chatbot bridging military veterans into tech careers
+Problem: [e.g. "Veterans transitioning to tech had no low-friction way to explore career paths or get answers to basic questions"]
+Built: Python · GPT · FastAPI backend, deployed chatbot judged live at hackathon
+Outcome: 🏆 Won [event name] · [add: # of users tested with, judge feedback, or post-hackathon traction if any]
+
+**[AI Resume Ranker](https://github.com/Sellesta/Resume-Ranker)** — NLP screener that scores resumes against a job description
+Problem: [e.g. "Manual resume screening doesn't scale past ~50 applicants"]
+Built: Python · Hugging Face Transformers · Streamlit UI
+Outcome: [REPLACE — e.g. "Scores 200 resumes in under X seconds" / "X% agreement with human recruiter rankings on a test set of Y resumes"]
+
+**[Reddit Data Pipeline](https://github.com/Sellesta/Reddit-Data-Pipeline-with-Airflow-Celery-PostgreSQL-S3-AWS-Glue-Athena-and-Redshift)** — Production-style ETL from Reddit's API into a Redshift warehouse
+Problem: [e.g. "Needed reliable, scheduled ingestion of high-volume social data for downstream analytics"]
+Built: Airflow (orchestration) · Celery (async tasks) · S3 → Glue → Athena → Redshift
+Outcome: [REPLACE — e.g. "Processes X records/day with Y% pipeline uptime" — even an approximate, honest number beats none]
 
 <details>
-<summary>Snake setup (one-time GitHub Action)</summary>
+<summary>More projects</summary>
 
-Create `.github/workflows/snake.yml`:
+<br/>
 
-```yaml
-name: Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Sellesta
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+**[Language Tutor Bot](https://devpost.com/Sellesta)** — African language learning chatbot, hackathon finalist. GPT-Neo · Twilio · FastAPI.
+
+**[Canada Crime Dashboard](https://github.com/Sellesta/Visualizing-Canada-s-Crime-Stats-in-PowerBI)** — National crime data visualization. Python · Jupyter · Power BI.
+
+**[Softheon Integration](https://github.com/Sellesta/Softheon-Integration-Sandbox)** — Python + SQL pipeline into the Softheon API.
 
 </details>
 
@@ -107,6 +60,51 @@ jobs:
 
 ---
 
+### How I work
+
+- I scope before I estimate — you get a fixed range, not an open-ended hourly clock
+- Async-friendly, but I'll hop on a call when a decision needs one
+- I hand off documented code and a short README for every deliverable, not just working code
+- Current availability: **[REPLACE — e.g. "10–15 hrs/week" or "taking on 1–2 new projects starting August"]**
+
+<br/>
+
+---
+
+### Credentials
+
+- 🌍 Guinness World Records™ contributor — Largest Online AI Hackathon, Kanz AI Hackathon, July 2026 · [view certificate](https://try.ka.nz/certificate/KANZ-GWR-B972C33B59?certificate_type=gwr2&recipient_name=Moses+Wanjema&issue_date=July+15%2C+2026&certificate_id=KANZ-GWR-B972C33B59)
+- 🏆 1st place — [event name], Vet2TechChatbox
+- [REPLACE — add any degree, bootcamp, or certification a recruiter would screen for, e.g. "AWS Certified Data Engineer" or "B.Sc. Computer Science, [University]"]
+
+<br/>
+
+---
+
+### Stack
+
+**Core:** Python · TypeScript · SQL
+**ML/Data:** PyTorch, Hugging Face Transformers, Airflow, Pandas
+**Infra:** AWS (S3, Glue, Redshift), Docker, PostgreSQL
+**Exploring:** Rust (microservices)
+
+<br/>
+
+---
+
 <div align="center">
-  <sub>Building something ambitious? <a href="https://www.linkedin.com/in/moses-wanjema-a43253133/">Let's talk.</a></sub>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sellesta&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=1f6feb&title_color=58a6ff&hide_rank=true" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sellesta&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="140"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+**Have a data or ML problem to solve?** [Let's talk.](https://www.linkedin.com/in/moses-wanjema-a43253133/)
+
 </div>
